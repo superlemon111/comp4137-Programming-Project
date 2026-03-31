@@ -7,7 +7,7 @@
 - Group Number: `2`
 - Group Members:
   - `Wong Wing Fung (23213477)`
-  - `Student Name 2 (Student ID 2)`
+  - `Cheung Yeung Tai (22233903)`
   - `Student Name 3 (Student ID 3)`
 
 Replace the placeholders above with your actual group information before submission.
